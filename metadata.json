@@ -1,0 +1,7 @@
+{
+  "name": "ET Pilot - Etsy Marketing & SEO Optimizer",
+  "description": "All-in-one Etsy marketing suite for AI SEO listing optimization, 13-tag keyword discovery, Pinterest & social campaign generation, listing audit doctor, and Etsy profit/ads ROAS analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
